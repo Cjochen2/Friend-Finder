@@ -1,1 +1,3 @@
 # Friend-Finder
+
+THIS APPLICATION IS NOT COMPLETE
